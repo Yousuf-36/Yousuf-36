@@ -1,5 +1,5 @@
 <h1 align="center">Shaik Mohammed Yousuf</h1>
-<h3 align="center">AI • Security • Systems • Full-Stack Development</h3>
+<h3 align="center">AI • Security • Backend • Full-Stack Development</h3>
 
 ---
 
