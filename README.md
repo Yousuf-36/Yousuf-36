@@ -1,10 +1,12 @@
 <div align="center">
   
+  <h1>Shaik Mohammed Yousuf</h1>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=750&lines=Yousuf;Backend+%7C+AI+%7C+Cybersecurity;Building+Secure+Scalable+Systems;Engineering+with+Purpose" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=750&lines=Backend+%7C+AI+%7C+Cybersecurity;Building+Secure+Scalable+Systems;Engineering+with+Purpose" alt="Typing SVG" />
   </a>
 
-  <p align="center">
+  <p>
     <samp>Python • FastAPI • AI Systems • Security Engineering • Full Stack Development</samp>
   </p>
 
@@ -14,9 +16,13 @@
 
 <h2 align="center">⚙️ Engineering Profile</h2>
 
-<div align="center" style="max-width: 850px; margin: 0 auto;">
+<div align="center">
 
-<pre align="left" lang="python">
+<table>
+<tr>
+<td align="left">
+
+<pre lang="python">
 yousuf = {
     "primary_focus": "Backend Engineering",
     "domains": ["AI Systems", "Cybersecurity"],
@@ -31,7 +37,11 @@ yousuf = {
 print(yousuf["goal"])
 </pre>
 
-<p align="left">
+</td>
+</tr>
+</table>
+
+<p align="left" style="max-width: 850px;">
 Backend-focused engineer working on AI-integrated systems and secure application design.  
 Experienced in building REST APIs, implementing authentication mechanisms, and designing scalable backend services using Python and FastAPI.
 
