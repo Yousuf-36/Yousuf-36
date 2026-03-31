@@ -1,91 +1,97 @@
 <div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=750&lines=Yousuf;Backend+%7C+AI+%7C+Cybersecurity;Building+Secure+Scalable+Systems;Engineering+with+Purpose" alt="Typing SVG" />
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00dbde&height=250&section=header&text=Yousuf&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=850&lines=Backend+Engineer;AI+Systems+%7C+Cybersecurity;Building+Secure+Scalable+Architectures;Engineering+Systems+That+Actually+Work;Security+First+Mindset+⚡" />
+  <p align="center">
+    <samp>Python • FastAPI • AI Systems • Security Engineering • Full Stack Development</samp>
+  </p>
 
 </div>
 
----
+<br/>
 
-<div align="center">
+<h2 align="center">⚙️ Engineering Profile</h2>
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+<div align="center" style="max-width: 850px; margin: 0 auto;">
 
-</div>
-
----
-
-<h2 align="center">⚙️ SYSTEM PROFILE</h2>
-
-<div align="center">
-
-<pre align="left">
-
+<pre align="left" lang="python">
 yousuf = {
-    "role": "Backend Engineer",
-    "core_focus": ["AI Systems", "Cybersecurity"],
-    
-    "backend": {
-        "languages": ["Python"],
-        "frameworks": ["FastAPI"],
-        "architecture": ["REST APIs", "Modular Design"]
-    },
-
-    "security": {
-        "authentication": ["JWT"],
-        "authorization": ["RBAC"],
-        "practices": [
-            "Password Hashing",
-            "Secure API Design",
-            "Middleware Protection"
-        ]
-    },
-
-    "frontend_capability": [
-        "React", "JavaScript", "HTML", "CSS"
-    ],
-
-    "infrastructure": [
-        "Docker", "AWS (Basics)", "Linux"
-    ],
-
-    "databases": [
-        "PostgreSQL", "MongoDB"
-    ]
+    "primary_focus": "Backend Engineering",
+    "domains": ["AI Systems", "Cybersecurity"],
+    "backend_stack": ["Python", "FastAPI"],
+    "security": ["JWT", "RBAC", "Password Hashing", "Secure API Design"],
+    "frontend_capability": ["React", "JavaScript", "HTML", "CSS"],
+    "infrastructure": ["Docker", "AWS"],
+    "databases": ["PostgreSQL", "MongoDB"],
+    "goal": "Build secure, scalable, production-ready systems."
 }
 
-mission = "Design systems that are secure, scalable, and production-ready"
-
+print(yousuf["goal"])
 </pre>
+
+<p align="left">
+Backend-focused engineer working on AI-integrated systems and secure application design.  
+Experienced in building REST APIs, implementing authentication mechanisms, and designing scalable backend services using Python and FastAPI.
+
+Also capable of developing frontend interfaces and integrating them with robust backend architectures.
+
+Focused on writing clean, efficient, and production-ready code with strong emphasis on security and system design.
+</p>
 
 </div>
 
 ---
 
-<h2 align="center">🧠 ENGINEERING PRINCIPLES</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">🔐 Security First</td>
-<td align="center">⚙️ Scalability</td>
-<td align="center">🧩 Clean Architecture</td>
-<td align="center">🚀 Production Mindset</td>
+<td align="center"><b>Backend</b></td>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>AI / Data</b></td>
+<td align="center"><b>Security</b></td>
+<td align="center"><b>DevOps</b></td>
 </tr>
 
 <tr>
-<td align="center">No system is secure by accident</td>
-<td align="center">Built to handle growth</td>
-<td align="center">Readable > clever</td>
-<td align="center">Code that survives real use</td>
+<td align="center">
+Python<br/>
+FastAPI<br/>
+REST APIs<br/>
+Node.js
+</td>
+
+<td align="center">
+React<br/>
+JavaScript<br/>
+HTML5<br/>
+CSS3<br/>
+Tailwind
+</td>
+
+<td align="center">
+OpenAI APIs<br/>
+Prompt Engineering<br/>
+ML Basics
+</td>
+
+<td align="center">
+JWT Authentication<br/>
+RBAC<br/>
+Password Hashing<br/>
+API Security
+</td>
+
+<td align="center">
+Docker<br/>
+AWS (Basics)<br/>
+Git<br/>
+Linux
+</td>
 </tr>
 </table>
 
@@ -93,31 +99,31 @@ mission = "Design systems that are secure, scalable, and production-ready"
 
 ---
 
-<h2 align="center">🛠️ TECH STACK</h2>
+<h2 align="center">🚀 Key Project</h2>
 
-<div align="center">
+### 🔐 Authentication & RBAC API Service
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,docker,aws,postgres,mongodb,linux,git" />
+Secure backend system built using Python & FastAPI.
 
-</div>
-
----
-
-<h2 align="center">📊 GITHUB STATS</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yousuf-36&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-36&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+- JWT-based authentication  
+- Role-Based Access Control (RBAC)  
+- Modular architecture  
+- Secure password hashing  
+- Middleware-based endpoint protection  
+- Clean RESTful API design  
 
 ---
 
-<h2 align="center">🚀 FEATURED PROJECT</h2>
+<h2 align="center">📈 Current Focus</h2>
+
+- Strengthening Data Structures & Algorithms  
+- Deepening Distributed Systems knowledge  
+- Exploring AI-integrated backend architectures  
+- Advancing in Cybersecurity fundamentals  
+- Writing clean, scalable, production-grade code  
+
+---
 
 <div align="center">
-
-### 🔐 Authentication & RBAC Backend System
-
+  <strong>Secure by Design. Scalable by Architecture. Built to Work.</strong>
 </div>
