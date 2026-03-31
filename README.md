@@ -1,97 +1,91 @@
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=750&lines=Shaik+Mohammed+Yousuf;Backend+%7C+AI+%7C+Cybersecurity;Building+Secure+Scalable+Systems;Full+Stack+Engineer+with+Systems+Focus" alt="Typing SVG" />
-  </a>
 
-  <p align="center">
-    <samp>Python • FastAPI • AI Systems • Security Engineering • Full Stack Development</samp>
-  </p>
-
-</div>
-
-<br/>
-
-<h2 align="center">⚙️ Engineering Profile</h2>
-
-<div align="center" style="max-width: 850px; margin: 0 auto;">
-
-<pre align="left" lang="python">
-yousuf = {
-    "primary_focus": "Backend Engineering",
-    "domains": ["AI Systems", "Cyber Security"],
-    "backend_stack": ["Python", "FastAPI"],
-    "security": ["JWT", "RBAC", "Password Hashing", "Secure API Design"],
-    "frontend_capability": ["React", "JavaScript", "HTML", "CSS"],
-    "infrastructure": ["Docker", "AWS"],
-    "databases": ["PostgreSQL", "MongoDB"],
-    "goal": "Build secure, intelligent, and scalable systems."
-}
-
-print(yousuf["goal"])
-</pre>
-
-<p align="left">
-I am a backend-focused engineer with strong interest in AI systems and cybersecurity. 
-I build secure REST APIs, implement authentication architectures, and design scalable backend services using Python and FastAPI. 
-
-Alongside backend systems, I have full-stack experience building responsive frontend interfaces and integrating them with secure server-side logic. 
-
-My long-term focus is on developing intelligent systems that are secure by design, scalable in architecture, and production-ready in execution.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00dbde&height=250&section=header&text=Yousuf&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=850&lines=Backend+Engineer;AI+Systems+%7C+Cybersecurity;Building+Secure+Scalable+Architectures;Engineering+Systems+That+Actually+Work;Security+First+Mindset+⚡" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+<h2 align="center">⚙️ SYSTEM PROFILE</h2>
+
+<div align="center">
+
+<pre align="left">
+
+yousuf = {
+    "role": "Backend Engineer",
+    "core_focus": ["AI Systems", "Cybersecurity"],
+    
+    "backend": {
+        "languages": ["Python"],
+        "frameworks": ["FastAPI"],
+        "architecture": ["REST APIs", "Modular Design"]
+    },
+
+    "security": {
+        "authentication": ["JWT"],
+        "authorization": ["RBAC"],
+        "practices": [
+            "Password Hashing",
+            "Secure API Design",
+            "Middleware Protection"
+        ]
+    },
+
+    "frontend_capability": [
+        "React", "JavaScript", "HTML", "CSS"
+    ],
+
+    "infrastructure": [
+        "Docker", "AWS (Basics)", "Linux"
+    ],
+
+    "databases": [
+        "PostgreSQL", "MongoDB"
+    ]
+}
+
+mission = "Design systems that are secure, scalable, and production-ready"
+
+</pre>
+
+</div>
+
+---
+
+<h2 align="center">🧠 ENGINEERING PRINCIPLES</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center"><b>Backend</b></td>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><b>AI / Data</b></td>
-<td align="center"><b>Security</b></td>
-<td align="center"><b>DevOps</b></td>
+<td align="center">🔐 Security First</td>
+<td align="center">⚙️ Scalability</td>
+<td align="center">🧩 Clean Architecture</td>
+<td align="center">🚀 Production Mindset</td>
 </tr>
 
 <tr>
-<td align="center">
-Python<br/>
-FastAPI<br/>
-REST APIs<br/>
-Node.js
-</td>
-
-<td align="center">
-React<br/>
-JavaScript<br/>
-HTML5<br/>
-CSS3<br/>
-Tailwind
-</td>
-
-<td align="center">
-OpenAI APIs<br/>
-Prompt Engineering<br/>
-Basic ML Concepts
-</td>
-
-<td align="center">
-JWT Authentication<br/>
-RBAC<br/>
-Password Hashing<br/>
-API Security
-</td>
-
-<td align="center">
-Docker<br/>
-AWS (Basics)<br/>
-Git<br/>
-Linux
-</td>
+<td align="center">No system is secure by accident</td>
+<td align="center">Built to handle growth</td>
+<td align="center">Readable > clever</td>
+<td align="center">Code that survives real use</td>
 </tr>
 </table>
 
@@ -99,30 +93,31 @@ Linux
 
 ---
 
-<h2 align="center">🚀 Key Project</h2>
-
-### 🔐 Authentication & RBAC API Service
-Secure backend system built using Python & FastAPI.
-
-- JWT-based authentication  
-- Role-Based Access Control (RBAC)  
-- Modular architecture  
-- Secure password hashing  
-- Middleware-based endpoint protection  
-- Clean RESTful API design  
-
----
-
-<h2 align="center">📈 Current Focus</h2>
-
-- Strengthening Data Structures & Algorithms  
-- Deepening understanding of Distributed Systems  
-- Exploring AI-driven backend architectures  
-- Advancing in Cybersecurity fundamentals  
-- Writing clean, scalable, production-grade code  
-
----
+<h2 align="center">🛠️ TECH STACK</h2>
 
 <div align="center">
-  <strong>Secure by Design. Scalable by Architecture. Intelligent by Vision.</strong>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,docker,aws,postgres,mongodb,linux,git" />
+
+</div>
+
+---
+
+<h2 align="center">📊 GITHUB STATS</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yousuf-36&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf-36&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+<h2 align="center">🚀 FEATURED PROJECT</h2>
+
+<div align="center">
+
+### 🔐 Authentication & RBAC Backend System
+
 </div>
