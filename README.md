@@ -198,7 +198,7 @@ I learn by implementing the behaviour, testing failure cases, and being able to 
 
 <br /><br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yousuf-36&bg_color=000000&color=DDDDDD&line=888888&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<!-- <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yousuf-36&bg_color=000000&color=DDDDDD&line=888888&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" /> -->
 
 </div>
 
