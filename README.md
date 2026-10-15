@@ -1,184 +1,197 @@
 <div align="center">
 
-<!-- Replace this with a hosted/committed crop of your portrait if preferred. -->
-
-<img src="./assets/portfolio-design-reference.png" alt="Yousuf — dark monochrome developer portfolio design" width="100%" />
+<img src="./git%20hub%20pfp.png" width="168" alt="Shaik Mohammed Yousuf profile portrait" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=850&color=E8F7FF&center=true&vCenter=true&width=800&lines=Backend+Engineering;AI-Integrated+Systems;Cybersecurity+%26+Secure+API+Design;Building+Reliable+Software"
-    alt="Animated introduction: Backend Engineering, AI-Integrated Systems, Cybersecurity and Secure API Design"
-  />
+SHAik Mohammed Yousuf
+
+Backend Engineering · AI Systems · Cybersecurity
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+secure+backend+systems;Building+AI-integrated+applications;Turning+ideas+into+reliable+software" alt="Animated engineering focus" />
 </a>
 
-<p>
-  <a href="https://github.com/Yousuf-36">
-    <img src="https://img.shields.io/badge/GitHub-Yousuf--36-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/yousuf8105/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:yousufshaik8105@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Yousuf" />
-  </a>
-</p>
+<br/>
 
-Backend Engineer · AI Systems · Cybersecurity
+<a href="https://github.com/Yousuf-36">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/yousuf8105/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yousufshaik8105@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-Secure by design. Scalable by architecture. Built to work.
+<br/><br/>
+
+Secure by design. Scalable by architecture. Built to solve real problems.
 
 </div>
 
-01 — About Me
+01 / PROFILE
 
-I build backend services and AI-integrated applications with an emphasis on security, maintainability, and practical system design. My work spans REST API development, authentication and authorization, database-backed services, asynchronous processing, and machine-learning prototypes.
+I build backend services and AI-integrated applications with an emphasis on security, maintainability, and practical system design. My work includes REST APIs, authentication and authorization, database-backed services, asynchronous workflows, and machine-learning proof of concepts.
 
-I prefer understanding the system behind the code: how requests move through an application, how data is persisted, how failures are handled, and how access is controlled.
+I care about the engineering behind a feature: clear boundaries, reliable data flow, meaningful error handling, and secure defaults—not just getting an endpoint to return 200 OK.
 
-yousuf = {
-    "primary_focus": "Backend Engineering",
-    "domains": ["AI Systems", "Cybersecurity"],
-    "backend": ["Python", "FastAPI", "Node.js", "TypeScript"],
-    "data": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+profile = {
+    "focus": ["Backend Engineering", "AI Systems", "Application Security"],
+    "languages": ["Python", "TypeScript", "JavaScript", "SQL"],
+    "backend": ["FastAPI", "Node.js", "Express"],
+    "data": ["PostgreSQL", "MongoDB", "Redis"],
     "engineering": [
-        "REST API Design",
-        "Authentication & RBAC",
-        "Async Job Processing",
-        "Dockerized Services",
+        "REST API design",
+        "JWT authentication and RBAC",
+        "Asynchronous job processing",
+        "Dockerized services",
     ],
-    "principle": "Build secure, maintainable systems that solve real problems.",
 }
 
-02 — Engineering Stack
+02 / TOOLKIT
 
 <div align="center">
 
-Backend
+BACKEND & LANGUAGES
 
-Frontend
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,ts,js" alt="Python, FastAPI, Node.js, Express, TypeScript and JavaScript" />
 
-AI & Data
+<br/><br/>
 
-Databases
+DATA & INFRASTRUCTURE
 
-Security & Delivery
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux,git,github" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Linux, Git and GitHub" />
 
+<br/><br/>
 
+FRONTEND & AI / DATA
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,sklearn" alt="React, Next.js, Vite, Tailwind CSS and scikit-learn" />
 
 </div>
 
-Engineering practices: modular architecture · input validation · structured error handling · JWT authentication · role-based access control · password hashing · rate limiting · audit logging · background jobs · Docker-based development.
+<details>
+<summary><strong>Engineering practices</strong></summary>
+<br/>
 
-03 — Featured Projects
+API design · Input validation · JWT · RBAC · Password hashing · Rate limiting · Audit logging · Idempotency · Background jobs · Retries and failure handling · Docker · CI/CD fundamentals
+
+</details>
+
+03 / SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 🔐 Secure Backend Starter API
 
+Python · FastAPI · PostgreSQL · JWT · Docker
+
 A reusable backend foundation focused on secure API development.
 
-JWT access and refresh-token authentication.
+Access and refresh-token authentication
 
-Role-based access control and password hashing.
+Role-based access control and password hashing
 
-Request validation, rate limiting, health checks, and consistent error responses.
+Validation, rate limiting, and consistent error responses
 
-PostgreSQL integration and Docker-based setup.
+PostgreSQL integration and containerized setup
 
-Python FastAPI PostgreSQL JWT Docker
+<br/>
 
-🧠 Crypto-Jacking Monitor
+<a href="https://github.com/Yousuf-36/secure-backend-starter-api">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View Secure Backend Starter API repository" />
+</a>
 
-A local endpoint-monitoring proof of concept that uses system telemetry and a machine-learning model to flag potentially suspicious resource usage.
+</td>
+<td width="50%" valign="top">
 
-Collects endpoint metrics with psutil.
+⚙️ Mr. Mart — AI-Powered SaaS
 
-Uses a Random Forest classifier for an initial detection experiment.
+TypeScript · Node.js · PostgreSQL · Redis · BullMQ · MCP
 
-Explores CPU utilization and browser activity as model signals.
+A multi-tenant SaaS concept designed around asynchronous workflows and controlled AI-tool execution.
 
-Treats evaluation results as experimental—not proof of production-grade detection.
+Separated API, worker, and AI execution responsibilities
 
-Python psutil Pandas Scikit-learn
+Queued work with retries and failure handling
 
-⚙️ Mr. Mart — AI-Powered SaaS Platform
+Tenant isolation, RBAC, auditability, and idempotency
 
-A multi-tenant SaaS concept built around asynchronous workflows and controlled AI-tool execution.
+MCP server for exposing application capabilities
 
-Separated API, worker, and AI-execution responsibilities.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Uses PostgreSQL for persistent data and Redis/BullMQ for queued work.
+🛡️ Crypto-Jacking Monitor
 
-Focuses on tenant isolation, RBAC, auditability, idempotency, retries, and approval-based execution.
+Python · psutil · Pandas · Scikit-learn
 
-Exposes application capabilities through an MCP server.
+A local endpoint-monitoring proof of concept exploring system telemetry for suspicious resource usage.
 
-TypeScript Node.js PostgreSQL Redis BullMQ MCP
+Collects process and resource metrics
 
-04 — Current Engineering Focus
+Uses a Random Forest classifier for an initial experiment
 
-Backend fundamentals: API boundaries, validation, persistence, and error handling.
+Evaluates CPU utilization and browser activity as model signals
 
-System design: queues, idempotency, retries, caching, and service boundaries.
+Experimental prototype; results should not be interpreted as production-grade detection.
 
-Application security: authentication, authorization, least privilege, and secure defaults.
+</td>
+<td width="50%" valign="top">
 
-AI integration: building controlled, observable AI workflows into conventional applications.
+🧪 What I optimize for
 
-Problem solving: improving data-structures-and-algorithms fluency through implementation and practice.
+Security: explicit access control and secure defaults
 
-05 — GitHub Activity
+Reliability: predictable errors, retries, and idempotent operations
+
+Maintainability: modular code and clear separation of concerns
+
+Practicality: features that solve a real user or system problem
+
+</td>
+</tr>
+</table>
+
+04 / CURRENTLY IMPROVING
+
+<div align="center">
+
+SYSTEM DESIGN
+
+SECURITY
+
+AI ENGINEERING
+
+Queues, caching, idempotency, failure recovery
+
+Least privilege, auth flows, secure API boundaries
+
+Reliable tool use, controlled workflows, observability
+
+</div>
+
+I am strengthening my fundamentals through implementation: understanding trade-offs, testing failure cases, and being able to explain why a design works—not just which libraries it uses.
+
+05 / GITHUB ACTIVITY
 
 <div align="center">
 
 <a href="https://github.com/Yousuf-36">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yousuf-36&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8F7FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics for Yousuf-36" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yousuf-36&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/Yousuf-36">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-36&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8F7FF&text_color=C9D1D9" alt="Most-used languages on GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-36&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used languages" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Yousuf-36&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E8F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=E8F7FF&sideNums=E8F7FF" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Yousuf-36&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub contribution streak" />
 
 </div>
 
@@ -186,10 +199,10 @@ Problem solving: improving data-structures-and-algorithms fluency through implem
 
 // BUILD · LEARN · IMPROVE · REPEAT
 
-Engineering systems that solve real problems and create lasting impact.
+Engineering systems that are secure, useful, and built to last.
 
-<a href="https://github.com/Yousuf-36">GitHub</a> ·
-<a href="https://www.linkedin.com/in/yousuf8105/">LinkedIn</a> ·
+<a href="https://github.com/Yousuf-36">GitHub</a>  · 
+<a href="https://www.linkedin.com/in/yousuf8105/">LinkedIn</a>  · 
 <a href="mailto:yousufshaik8105@gmail.com">Email</a>
 
 </div>
